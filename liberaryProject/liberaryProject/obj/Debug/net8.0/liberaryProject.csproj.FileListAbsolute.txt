@@ -1,0 +1,14 @@
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.AssemblyInfoInputs.cache
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.AssemblyInfo.cs
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.csproj.CoreCompileInputs.cache
+E:\liberaryProject\liberaryProject\bin\Debug\net8.0\liberaryProject.exe
+E:\liberaryProject\liberaryProject\bin\Debug\net8.0\liberaryProject.deps.json
+E:\liberaryProject\liberaryProject\bin\Debug\net8.0\liberaryProject.runtimeconfig.json
+E:\liberaryProject\liberaryProject\bin\Debug\net8.0\liberaryProject.dll
+E:\liberaryProject\liberaryProject\bin\Debug\net8.0\liberaryProject.pdb
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.dll
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\refint\liberaryProject.dll
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.pdb
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\liberaryProject.genruntimeconfig.cache
+E:\liberaryProject\liberaryProject\obj\Debug\net8.0\ref\liberaryProject.dll

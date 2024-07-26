@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arrayProgram (old task but with switch case as required)/1.0.0": {
+        "runtime": {
+          "arrayProgram (old task but with switch case as required).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arrayProgram (old task but with switch case as required)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

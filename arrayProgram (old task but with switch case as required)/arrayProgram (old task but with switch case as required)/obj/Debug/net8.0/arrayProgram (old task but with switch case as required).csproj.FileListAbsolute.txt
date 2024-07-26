@@ -1,0 +1,14 @@
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\bin\Debug\net8.0\arrayProgram (old task but with switch case as required).exe
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\bin\Debug\net8.0\arrayProgram (old task but with switch case as required).deps.json
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\bin\Debug\net8.0\arrayProgram (old task but with switch case as required).runtimeconfig.json
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\bin\Debug\net8.0\arrayProgram (old task but with switch case as required).dll
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\bin\Debug\net8.0\arrayProgram (old task but with switch case as required).pdb
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).GeneratedMSBuildEditorConfig.editorconfig
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).AssemblyInfoInputs.cache
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).AssemblyInfo.cs
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).csproj.CoreCompileInputs.cache
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).dll
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\refint\arrayProgram (old task but with switch case as required).dll
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).pdb
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\arrayProgram (old task but with switch case as required).genruntimeconfig.cache
+E:\arrayProgram (old task but with switch case as required)\arrayProgram (old task but with switch case as required)\obj\Debug\net8.0\ref\arrayProgram (old task but with switch case as required).dll

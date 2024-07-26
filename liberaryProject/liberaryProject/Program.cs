@@ -1,4 +1,4 @@
-﻿namespace LibraryProject
+namespace LibraryProject
 {
     class Book
     {
@@ -72,8 +72,7 @@
                             if(inOurLib)
                                 Console.WriteLine("the book in our liberary we can not add it kindly try to add another one");
                             else library.AddNewBook(title, isbn, author);
-                        }
-                        else
+                        }else
                         {
                         library.AddNewBook(title, isbn, author);
                         }
@@ -87,8 +86,7 @@
                             if(item.Title == bookTitle)
                             {
                                 Console.WriteLine($"the book you are looking for is written by {item.Author} and the isbn is {item.ISBN}");
-                            }
-                            else
+                            }else
                             {
                                 Console.WriteLine("the book u are searching for not avail right now but we will work to ad it ad if you need to add it u can do that");
                             }
@@ -106,8 +104,7 @@
                             {
                                 Console.WriteLine($"the book you are looking for is written by {item.Author} and the isbn is {item.ISBN} and it's in ur account now");
                                 item.Availability = false;
-                            }
-                            else
+                            }else
                             {
                                 Console.WriteLine("the book u are searching for not avail right now but we will work to ad it ad if you need to add it u can do that");
                             }
@@ -122,9 +119,7 @@
                             {
                                 Console.WriteLine("Thank u for returning the book");
                                 item.Availability = true;
-                            }
-                            
-                            else if (item.Title == returnBook && item.Availability == true)
+                            }else if (item.Title == returnBook && item.Availability == true)
                             {
                                 Console.WriteLine("book is not borrowed yet and if u need it u can borrow it!! ");
                             }
